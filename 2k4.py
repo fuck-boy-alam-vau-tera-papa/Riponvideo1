@@ -41,8 +41,8 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://github.com/irfan7732/test/blob/main/a.txt"])
-	exit(" [*] FACEBOOK :  https://www.facebook.com/irfan.7732")
+	subprocess.check_output(["am", "start", "https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt"])
+	exit(" [*] FACEBOOK :  https://www.facebook.com/Normal.User.Alamgir")
 
 
 def notice():
@@ -51,8 +51,8 @@ def notice():
 
 	runtxt("\n\033[0;91m🧞‍♀️YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m 🔇 SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN🧞‍♀️ MESSENGER🔰🥰https://m.me/irfan.7732")
-	subprocess.check_output(["am", "start", "https://m.me/irfan.7732"])
+	runtxt("\033[0;92m ADMIN🧞‍♀️ MESSENGER🔰🥰https://www.facebook.com/Normal.User.Alamgir")
+	subprocess.check_output(["am", "start", "https://m.me/Normal.User.Alamgir"])
 
 def irfan():
 	
